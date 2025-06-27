@@ -19,8 +19,8 @@ export default function Vashishthackathon() {
       <About />
       <PreviousAchievements />
       <Tracks />
-      <EventTimeline />
-      <Rules />
+      {/* <EventTimeline /> */}
+      {/* <Rules /> */}
       <Sponsors />
       <Footer />
       <Analytics/>

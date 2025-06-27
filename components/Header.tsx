@@ -94,7 +94,7 @@ export const Header = () => {
             transition={{ delay: 0.4 }}
           >
             <Link href="#" target="_blank" rel="noopener noreferrer">
-            <GlowingButton >Sponser Us</GlowingButton></Link>
+            <GlowingButton >Sponsor Us</GlowingButton></Link>
           </motion.div>
         </motion.div>
 

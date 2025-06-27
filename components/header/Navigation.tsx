@@ -5,8 +5,8 @@ import { Menu, X } from "lucide-react";
 const links = [
   { id: "About", label: "About" },
   { id: "Tracks", label: "Tracks" },
-  { id: "Timeline", label: "Timeline" },
-  { id: "Rules", label: "Rules" },
+  // { id: "Timeline", label: "Timeline" },
+  // { id: "Rules", label: "Rules" },
 ];
 
 export const Navigation = () => {
