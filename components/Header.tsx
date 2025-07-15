@@ -93,7 +93,7 @@ export const Header = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.4 }}
           >
-            <Link href="https://drive.google.com/file/d/1e5QsNJ8DOswy8XnIX6uYLutY_Hg1Q5n9/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+            <Link href="mailto:devclub@iiitdm.ac.in" target="_blank" rel="noopener noreferrer">
               <GlowingButton>Sponsor Us</GlowingButton>
             </Link>
           </motion.div>
