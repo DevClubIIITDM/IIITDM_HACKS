@@ -1,5 +1,5 @@
 import { motion, useScroll, useTransform } from "framer-motion";
-import { Gamepad2, Sparkles } from "lucide-react";
+import { Gamepad2, Sparkles, BookMarked } from "lucide-react";
 import { useState } from "react";
 import { Navigation } from "./header/Navigation";
 import { GlowingButton } from "./header/GlowingButton";
@@ -92,9 +92,15 @@ export const Header = () => {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.4 }}
+            className="flex flex-col lg:flex-row gap-4 items-center justify-center"
           >
+            <Link href="https://drive.google.com/file/d/1e5QsNJ8DOswy8XnIX6uYLutY_Hg1Q5n9/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+              <GlowingButton>
+                View Brochure
+              </GlowingButton>
+            </Link>
             <Link href="mailto:devclub@iiitdm.ac.in" target="_blank" rel="noopener noreferrer">
-              <GlowingButton>Sponsor Us</GlowingButton>
+              <GlowingButton transparent={true}>Sponsor Us</GlowingButton>
             </Link>
           </motion.div>
         </motion.div>
