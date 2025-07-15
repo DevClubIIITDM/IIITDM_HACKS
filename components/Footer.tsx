@@ -38,8 +38,6 @@ export const Footer = () => {
               {[
                 { name: "About", href: "#About" },
                 { name: "Tracks", href: "#Tracks" },
-                { name: "Rules", href: "#Rules" },
-                { name: "Timeline", href: "#Timeline" },
                 { name: "Register", href: "#Register" },
               ].map((link) => (
                 <motion.li
