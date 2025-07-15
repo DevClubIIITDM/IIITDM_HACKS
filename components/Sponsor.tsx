@@ -120,7 +120,9 @@ export const Sponsors = () => {
             <p className="text-cyan-100/80 mb-8">
               Partner with IIITDM Hacks to connect with exceptional talent and support the future of technology.
             </p>
-            <SponsorUs formLink="https://drive.google.com/file/d/1e5QsNJ8DOswy8XnIX6uYLutY_Hg1Q5n9/view?usp=sharing" />
+            {/* <SponsorUs formLink="https://drive.google.com/file/d/1e5QsNJ8DOswy8XnIX6uYLutY_Hg1Q5n9/view?usp=sharing" /> */}
+            <SponsorUs formLink="mailto:devclub@iiitdm.ac.in" />
+            
           </div>
         </motion.div>
       </div>
