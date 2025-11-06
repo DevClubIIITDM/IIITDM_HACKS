@@ -41,7 +41,7 @@ export const About = () => {
         >
           <h2 className="text-4xl font-bold text-white mb-6">About The Event</h2>
           <p className="text-cyan-100 text-lg leading-relaxed">
-            IIITDM Hacks is the flagship national-level hackathon hosted by the Developers Club of 
+            Vashisht Hackathon 3.O is the flagship national-level hackathon hosted by the Developers Club of 
             IIITDM Kancheepuram. It brings together student innovators, developers, and problem 
             solvers from across the country for an exciting 36-hour sprint to build real-world tech solutions.
           </p>
@@ -84,7 +84,7 @@ export const About = () => {
             <div className="bg-white/10 backdrop-blur-sm rounded-lg p-6">
               <h4 className="text-xl font-bold text-cyan-400 mb-3">Mission</h4>
               <p className="text-cyan-100">
-                IIITDM Hacks aims to empower students to build real-world solutions through a high-energy, 
+                Vashisht Hackathon 3.O aims to empower students to build real-world solutions through a high-energy, 
                 collaborative hackathon. With tracks in web/app development, AI, IoT, and open innovation, 
                 the event fosters technical creativity, encourages hands-on learning, and helps students 
                 grow into confident developers ready to tackle today&apos;s tech challenges.
@@ -93,7 +93,7 @@ export const About = () => {
             <div className="bg-white/10 backdrop-blur-sm rounded-lg p-6">
               <h4 className="text-xl font-bold text-purple-400 mb-3">Vision</h4>
               <p className="text-cyan-100">
-                We envision IIITDM Hacks as a nationally recognized student-run hackathon that nurtures 
+                We envision Vashisht Hackathon 3.O as a nationally recognized student-run hackathon that nurtures 
                 innovation, collaboration, and problem-solving. By connecting passionate developers and 
                 fostering a strong tech culture, we aim to create a launchpad where ideas become impactful 
                 solutions, and students gain exposure to emerging technologies and practical development experience.

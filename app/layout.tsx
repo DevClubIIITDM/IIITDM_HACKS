@@ -10,7 +10,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'IIITDM Hacks',
+  title: 'Vashisht Hackathon 3.O',
   description: 'A retro-futuristic hackathon experience',
 }
 

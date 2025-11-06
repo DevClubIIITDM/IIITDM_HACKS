@@ -36,7 +36,7 @@ export const Header = () => {
             whileHover={{ scale: 1.05 }}
             className="text-lg sm:text-xl font-bold text-white pixel-font"
           >
-            IIITDM Hacks
+            Vashisht Hackathon 3.O
           </motion.div>
           <Navigation />
         </div>
@@ -68,8 +68,7 @@ export const Header = () => {
               animate={{ opacity: 1, y: 0 }}
               className="text-3xl sm:text-4xl md:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-purple-400 to-pink-400 pixel-font leading-tight"
             >
-              <span className="block sm:inline">IIITDM</span>{" "}
-              <span className="block sm:inline">Hacks</span>
+              <span className="block sm:inline">Vashisht Hackathon 3.O</span>
             </motion.h1>
 
             <motion.div

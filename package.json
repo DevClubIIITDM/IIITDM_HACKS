@@ -1,7 +1,7 @@
 {
   "name": "iiitdm-hacks",
   "version": "1.0.0",
-  "description": "IIITDM Hacks - A retro-futuristic hackathon experience",
+  "description": "Vashisht Hackathon 3.O - A retro-futuristic hackathon experience",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -42,6 +42,6 @@
     "tailwindcss",
     "framer-motion"
   ],
-  "author": "IIITDM Hacks Team",
+  "author": "Vashisht Hackathon 3.O Team",
   "license": "MIT"
 }

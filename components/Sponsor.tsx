@@ -112,7 +112,7 @@ export const Sponsors = () => {
     >
       <div className="container mx-auto px-4 md:px-6">
         <h2 className="text-2xl md:text-4xl pt-6 md:pt-12 font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-pink-400 to-cyan-400 mb-4 md:mb-6 pixel-font">
-          IIITDM Hacks Sponsors
+          Vashisht Hackathon 3.O Sponsors
         </h2>
 
         <motion.div
@@ -144,7 +144,7 @@ export const Sponsors = () => {
             Want to Sponsor?
           </h3>
           <p className="text-cyan-100/80 mb-8 text-sm md:text-base">
-            Partner with IIITDM Hacks to connect with exceptional talent and support the future of technology.
+            Partner with Vashisht Hackathon 3.O to connect with exceptional talent and support the future of technology.
           </p>
           <SponsorUs formLink="mailto:devclub@iiitdm.ac.in" />
         </div>

@@ -18,7 +18,7 @@ export const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
           <div>
             <h3 className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 via-purple-400 to-pink-400 mb-4 pixel-font">
-              IIITDM Hacks
+              Vashisht Hackathon 3.O
             </h3>
             <p className="text-gray-300 mb-4 leading-relaxed">
               Join us for an epic hackathon experience where innovation meets
@@ -95,7 +95,7 @@ export const Footer = () => {
         </div>
 
         <div className="border-t border-gradient-to-r from-cyan-400/20 via-purple-400/20 to-pink-400/20 mt-12 pt-8 text-center">
-          <p className="text-gray-400">© 2025 IIITDM Hacks. All rights reserved.</p>
+          <p className="text-gray-400">© 2025 Vashisht Hackathon 3.O. All rights reserved.</p>
         </div>
       </div>
     </footer>
