@@ -21,8 +21,8 @@ export const About = () => {
     },
     {
       icon: <Target className="w-8 h-8" />,
-      title: '4 Tracks',
-      description: 'Web/App Dev, AI, IoT & Open Innovation'
+      title: 'Tracks',
+      description: 'TBD'
     },
     {
       icon: <Eye className="w-8 h-8" />,
