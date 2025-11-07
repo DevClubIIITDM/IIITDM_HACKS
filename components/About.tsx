@@ -46,7 +46,7 @@ export const About = () => {
             solvers from across the country for an exciting 36-hour sprint to build real-world tech solutions.
           </p>
           <p className="text-cyan-100 text-lg leading-relaxed mt-4">
-            Scheduled for December 2025, the hackathon features open-ended problem statements 
+            Scheduled for March 28 2026 (Tentative), the hackathon features open-ended problem statements 
             across four main tracks: Web/App Development, Artificial Intelligence, Internet of Things (IoT), 
             and a Miscellaneous category for unconventional and cross-domain innovations.
           </p>

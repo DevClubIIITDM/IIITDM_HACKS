@@ -10,6 +10,7 @@ import { Rules } from '../components/Rules';
 import { Footer } from '../components/Footer';
 import { Analytics } from '@vercel/analytics/react';
 import { Sponsors } from '../components/Sponsor';
+import { Gallery } from '../components/Gallery';
 
 export default function Vashishthackathon() {
   return (
@@ -22,6 +23,7 @@ export default function Vashishthackathon() {
       {/* <EventTimeline /> */}
       {/* <Rules /> */}
       <Sponsors />
+      <Gallery />
       <Footer />
       <Analytics/>
     </div>
