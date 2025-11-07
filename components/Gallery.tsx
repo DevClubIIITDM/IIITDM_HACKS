@@ -33,7 +33,7 @@ const galleryImages = [
   },
   {
     id: 6,
-    src: '/assets/gallery/6.jpg',
+    src: '/assets/gallery/6.JPG',
     alt: ''
   }
 ];
